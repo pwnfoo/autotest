@@ -11,7 +11,7 @@ Set up your environment with:
     $ python setup.py build
 
 
-And then run it with::
+And then run it with:
 
     $ fedmsg-hub
 
