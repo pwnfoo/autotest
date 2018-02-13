@@ -1,0 +1,15 @@
+*.pyc
+*.egg-info
+*.egg*
+development.ini
+dist
+*.crt
+*.key
+*.gpg
+
+# Docs
+*_build/
+
+# Vagrant-related files
+Vagrantfile
+.cache
