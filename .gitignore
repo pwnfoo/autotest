@@ -9,7 +9,7 @@ dist
 
 # Docs
 *_build/
-
+*build/
 # Vagrant-related files
 Vagrantfile
 .cache
