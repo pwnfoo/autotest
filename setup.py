@@ -8,7 +8,7 @@ setup(
     license='GPLv2+',
     author='Sachin S. Kamath',
     author_email='sskamath96@gmail.com',
-    url='https://pagure.io/autotest',
+    url='https://github.com/sachinkamath/autotest',
     install_requires=['fedmsg', 'six'],
     packages=find_packages(
         exclude=('autotest.tests', 'autotest.tests.*')),
